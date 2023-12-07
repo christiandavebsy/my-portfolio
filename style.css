@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('ok.jpg');
+  background-size: cover; 
+  background-attachment: fixed; 
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+
+#game-container {
+  max-width: 600px;
+  margin: auto;
+}
+
+#clues-container {
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+#agent-image { 
+  height: 100vh;
+}
